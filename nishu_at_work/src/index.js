@@ -5,8 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+// Here the react APP component is rendered, coming from APP.js => function App 
 root.render(
-  <React.StrictMode>
+  <React.StrictMode>  
     <App />
   </React.StrictMode>
 );
