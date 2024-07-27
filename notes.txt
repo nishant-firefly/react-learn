@@ -1,0 +1,4 @@
+1. npx create-react-app nishu_at_work
+2. cd nishu_at_work
+3. yarn start
+
